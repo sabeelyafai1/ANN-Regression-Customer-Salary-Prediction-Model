@@ -27,7 +27,7 @@ The model is built using **TensorFlow**, **Keras**, **Scikit-Learn**, and **Pand
 - **Pandas**
 - **NumPy**
 - **Streamlit** (for web deployment)
-- **Matplotlib / Seaborn** (for visualization)
+- **Tensorboard** (for visualization)
 
 ---
 
@@ -60,5 +60,14 @@ The model typically includes:
 - R² Score  
 - Loss curve visualization  
 
+## 📊 TensorBoard Visualization
+
+**TensorBoard** was used to visualize:
+
+- Training & validation loss  
+- Training & validation accuracy  
+- Learning rate changes  
+- Hyperparameter performance  
+- Model graph structure  
 
 
